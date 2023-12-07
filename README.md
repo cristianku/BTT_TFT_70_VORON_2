@@ -14,30 +14,6 @@ This repository contains the necessary files and documentation to integrate the 
 
 - **External Buttons:** Modified design to accommodate external buttons for a more user-friendly experience. Unlike the original design with button holes, these buttons are positioned externally for easy access and improved usability.
 
-## Installation
-
-1. Clone this repository to your local machine:
-
-    ```bash
-    git clone https://github.com/your-username/your-repo.git
-    ```
-
-2. Follow the detailed installation instructions in the [**Installation Guide**](/docs/installation.md) for step-by-step guidance.
-
-## Usage
-
-1. Connect the BigTreeTech TFT 70 screen to the Voron 2.4 printer using the provided adapter.
-
-2. Power on the system and enjoy the enhanced display and improved button accessibility.
-
-## Documentation
-
-Refer to the [**Documentation**](/docs) folder for additional information:
-
-- [**Configuration Settings**](/docs/configuration.md): Customization options and configuration settings.
-
-- [**Troubleshooting**](/docs/troubleshooting.md): Common issues and solutions.
-
 ## Contributing
 
 If you'd like to contribute to this project, please follow the [**Contributing Guidelines**](/CONTRIBUTING.md).
