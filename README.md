@@ -2,7 +2,9 @@
 
 ## Overview
 
-This repository contains the necessary files and documentation to integrate the **BigTreeTech TFT 70** screen with **Voron 2.4** 3D printers. The TFT 70 screen from BigTreeTech is a high-quality display, and this adapter ensures compatibility with the Voron 2.4 printer.
+This repository contains the necessary files to integrate the **BigTreeTech TFT 70** screen with **Voron 2.4** 3D printers. 
+
+The TFT 70 screen from BigTreeTech is a high-quality display, and this adapter ensures compatibility with the Voron 2.4 printer.
 
 [**TFT 70 Product Link**](https://biqu.equipment/products/bigtreetech-pi-tft43-v2-0-screen-board?_pos=1&_sid=49243165b&_ss=r&variant=39337700786274)
 
@@ -22,3 +24,7 @@ If you'd like to contribute to this project, please follow the [**Contributing G
 ## License
 
 This project is licensed under the [**GNU General Public License v3.0**](https://github.com/cristianku/BTT_TFT_70_VORON_2/blob/main/LICENSE.txt), which is the same license as the Voron 2.4 project.
+<br>
+<br>
+
+![7fa83675-b258-4df9-9120-2286412ea1ad](https://github.com/cristianku/BTT_TFT_70_VORON_2/assets/25354817/1b0e4ecc-2496-44f4-84dc-25393a24a7c5)
