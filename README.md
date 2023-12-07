@@ -44,4 +44,4 @@ If you'd like to contribute to this project, please follow the [**Contributing G
 
 ## License
 
-This project is licensed under the [**Voron 2.4 License**](https://github.com/cristianku/BTT_TFT_70_VORON_2/LICENSE), which is the same license as the Voron 2.4 project.
+This project is licensed under the [**Voron 2.4 License**](https://github.com/cristianku/BTT_TFT_70_VORON_2/blob/main/LICENSE.txt), which is the same license as the Voron 2.4 project.
