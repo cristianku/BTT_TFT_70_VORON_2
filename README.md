@@ -6,7 +6,7 @@ This repository contains the necessary files to integrate the **BigTreeTech TFT 
 
 The TFT 70 screen from BigTreeTech is a high-quality display, and this adapter ensures compatibility with the Voron 2.4 printer.
 
-[**TFT 70 Product Link**](https://biqu.equipment/products/bigtreetech-pi-tft43-v2-0-screen-board?_pos=1&_sid=49243165b&_ss=r&variant=39337700786274)
+[**Bigtreetech TFT 70 Product Link**](https://biqu.equipment/products/bigtreetech-pi-tft43-v2-0-screen-board?_pos=1&_sid=49243165b&_ss=r&variant=39337700786274)
 
 
 ## Features
